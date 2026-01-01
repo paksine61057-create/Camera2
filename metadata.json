@@ -1,0 +1,7 @@
+{
+  "name": "iPadOS Floating Camera Pro-Caster",
+  "description": "A developer tool and previewer for building floating iPadOS camera applications using SwiftUI and AVFoundation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
